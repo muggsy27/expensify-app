@@ -1,7 +1,8 @@
-# Git Commands
+# What I Learned
 
-git init - Create new git repo
-git status - View the changes to your project code
-git add - Add files to the stagin area
-git commit - Creates a new commit with files from the staging area
-git log - View recent commits 
+* Implementing user authentication and protected routes
+* The basics of Redux
+* The basics of ReactJS
+* The basics of Sass
+* HTTP requests
+* Testing with Jest & Enzyme
